@@ -7,6 +7,7 @@ As a time-pressed user
 So that I can quickly go to web sites I regularly visit
 I would like to see a list of bookmarks
 ```
+```
 As a time-pressed user
 So that I can quickly go to web sites I regularly visit
 I would like to see a list of bookmarks
@@ -17,7 +18,6 @@ I would like to see a list of bookmarks
 
 ## Model View Controller (MVC) conventions:
 ```
-
 | Component   | Responsibility                                | Refactor                                |
 |------------ |---------------------------------------------  |---------------------------------------- |
 | Model       | Encapsulate logic with relevant data          | Encapsulate bookmark data in a class    |
