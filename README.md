@@ -24,3 +24,14 @@ I would like to see a list of bookmarks
 | View        | Display the result to a user                  | Show the bookmark data in a list        |
 | Controller  | Get data from the model and put in the view   | Render bookmark data into to the view   |
 ```
+## Sestting up the database
+1. Connect to psql
+2. Create the database using the psql command CREATE DATABASE bookmark_manager;
+3. Connect to the database using the pqsl command \c bookmark_manager;
+4. Run the query saved in the file 01_create_bookmarks_table.sql
+
+### To run the Bookmark Manager app:
+
+```
+rackup -p 3000
+```
