@@ -22,6 +22,11 @@ As a user
 So I can remove my bookmark from Bookmark Manager
 I want to delete a bookmark
 ```
+```
+As a user
+So I can change a bookmark in Bookmark Manager
+I want to update a bookmark
+```
 
 ## Domain Model
 <img width="862" alt="Screenshot 2021-12-06 at 22 20 28" src="https://user-images.githubusercontent.com/86299300/144932069-7f42c34e-49eb-42ed-b5f8-269114b3104e.png">
